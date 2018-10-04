@@ -429,7 +429,220 @@
             </section> -->
             <!-- #skills --> 
             
+            <section id="portfolio" class="section section-portfolio">
+            <div class="animate-up">
+            <h2 class="section-title">Portfolio</h2>
             
+            <div class="filter">
+                <div class="filter-inner">
+                    <div class="filter-btn-group">
+                        <button data-filter="*">All</button>
+                        <button data-filter=".photography">Photography</button>
+                        <button data-filter=".nature">Nature</button>
+                    </div>
+                    <div class="filter-bar">
+                        <span class="filter-bar-line"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="grid">
+                <div class="grid-sizer"></div>
+            
+                <div class="grid-item size22 photography">
+                    <div class="grid-box">
+                        <figure class="portfolio-figure">
+                            <img src="img/uploads/portfolio/portfolio-thumb-05-610x600.jpg" alt=""/>
+                            <figcaption class="portfolio-caption">
+                                <div class="portfolio-caption-inner">
+                                    <h3 class="portfolio-title">Street Photography</h3>
+                                    <h4 class="portfolio-cat">Photography</h4>
+            
+                                    <div class="btn-group">
+                                        <a class="btn-link" href="http://bit.ly/1YtB8he" target="_blank"><i
+                                                class="rsicon rsicon-link"></i></a>
+                                        <a class="portfolioFancybox btn-zoom" data-fancybox-group="portfolioFancybox1"
+                                           href="#portfolio1-inline1"><i class="rsicon rsicon-eye"></i></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox1"
+                                           href="#portfolio1-inline2"></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox1"
+                                           href="#portfolio1-inline3"></a>
+                                    </div>
+                                </div>
+                            </figcaption>
+                        </figure>
+            
+                        <!-- Start: Portfolio Inline Boxes -->
+                        <div id="portfolio1-inline1" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-05-large.jpg"></div>
+                            <div class="inline-cont">
+                                <h2 class="inline-title">Street photography is photography that features the chance
+                                    encounters and random accidents within public places.</h2>
+            
+                                <div class="inline-text">
+                                    <p>Street photography does not necessitate the presence of a street or even the urban
+                                        environment. Though people usually feature directly, street photography might be
+                                        absent of people and can be an object or environment where the image projects a
+                                        decidedly human character in facsimile or aesthetic.</p>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div id="portfolio1-inline2" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-01-large.jpg"></div>
+                            <div class="inline-cont">
+                                <div class="inline-text">
+                                    <h2 class="inline-title">Framing and timing</h2>
+            
+                                    <p>Framing and timing can be key aspects of the craft with the aim of some street
+                                        photography being to create images at a decisive or poignant moment. Street
+                                        photography can focus on emotions displayed, thereby also recording people's history
+                                        from an emotional point of view.</p>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div id="portfolio1-inline3" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="iframe"
+                                 data-embed-url="https://player.vimeo.com/video/118244244"></div>
+                            <div class="inline-cont">
+                                <div class="inline-text">
+                                    <h2 class="inline-title">A Look Into Documenting Street Fashion Photography</h2>
+            
+                                    <p>HB Nam is an internationally known street fashion photographer. In this Leica Camera
+                                        Portrait, Nam explains how he started in photography and what photography means to
+                                        him. For Nam, it's about documenting what's around him and the concentration
+                                        required to achieve a good shot.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End: Portfolio Inline Boxes -->
+                    </div>
+                </div>
+                <!-- .grid-item -->
+            
+                <div class="grid-item size11 bridge">
+                    <div class="grid-box">
+                        <figure class="portfolio-figure">
+                            <img src="img/uploads/portfolio/portfolio-thumb-11-289x281.jpg" alt=""/>
+                            <figcaption class="portfolio-caption">
+                                <div class="portfolio-caption-inner">
+                                    <h3 class="portfolio-title">Suspension Bridge</h3>
+                                    <h4 class="portfolio-cat">Bridge</h4>
+            
+                                    <div class="btn-group">
+                                        <a class="btn-link" href="http://bit.ly/1YtB8he" target="_blank"><i
+                                                class="rsicon rsicon-link"></i></a>
+                                        <a class="portfolioFancybox btn-zoom" data-fancybox-group="portfolioFancybox2"
+                                           href="#portfolio2-inline1"><i class="rsicon rsicon-eye"></i></a>
+                                    </div>
+                                </div>
+                            </figcaption>
+                        </figure>
+            
+                        <!-- Start: Portfolio Inline Boxes -->
+                        <div id="portfolio2-inline1" class="fancybox-inline-box">
+                            <div class="inline-cont">
+                                <h2 class="inline-title">Suspension Bridges - Design Technology</h2>
+            
+                                <div class="inline-text">
+                                    <p>Suspension bridges in their simplest form were originally made from rope and wood.
+                                        Modern suspension bridges use a box section roadway supported by high tensile
+                                        strength cables.
+                                        In the early nineteenth century, suspension bridges used iron chains for cables. The
+                                        high tensile cables used in most modern suspension
+                                        bridges were introduced in the late nineteenth century.<br/>
+                                        Today, the cables are made of thousands of individual steel wires bound tightly
+                                        together. Steel, which is very strong under tension, is
+                                        an ideal material for cables; a single steel wire, only 0.1 inch thick, can support
+                                        over half a ton without breaking.</p>
+            
+                                    <p>Light, and strong, suspension bridges can span distances from 2,000 to 7,000 feet far
+                                        longer than any other kind of bridge. They are
+                                        ideal for covering busy waterways.</p>
+            
+                                    <p>With any bridge project the choice of materials and form usually comes down to cost.
+                                        Suspension bridges tend to be the most expensive to build. A suspension bridge
+                                        suspends the roadway from huge main cables, which extend
+                                        from one end of the bridge to the other. These cables rest on top of high towers and
+                                        have to be securely anchored into the bank at either
+                                        end of the bridge. The towers enable the main cables to be draped over long
+                                        distances. Most of the weight or load of the bridge is
+                                        transferred by the cables to the anchorage systems. These are imbedded in either
+                                        solid rock or huge concrete blocks. Inside the anchorages,
+                                        the cables are spread over a large area to evenly distribute the load and to prevent
+                                        the cables from breaking free.</p>
+            
+                                    <p>The Arthashastra of Kautilya mentions the construction of dams and bridges.A Mauryan
+                                        bridge near Girnar was surveyed by James Princep.
+                                        The bridge was swept away during a flood, and later repaired by Puspagupta, the
+                                        chief architect of emperor Chandragupta I. The bridge
+                                        also fell under the care of the Yavana Tushaspa, and the Satrap Rudra Daman. The use
+                                        of stronger bridges using plaited bamboo and iron
+                                        chain was visible in India by about the 4th century. A number of bridges, both for
+                                        military and commercial purposes, were constructed by
+                                        the Mughal administration in India.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End: Portfolio Inline Boxes -->
+                    </div>
+                </div>
+                <!-- .grid-item -->
+            
+                <div class="grid-item size11 nature photography">
+                    <div class="grid-box">
+                        <figure class="portfolio-figure">
+                            <img src="img/uploads/portfolio/portfolio-thumb-08-289x281.jpg" alt=""/>
+                            <figcaption class="portfolio-caption">
+                                <div class="portfolio-caption-inner">
+                                    <h3 class="portfolio-title">Rocky Mountains</h3>
+                                    <h4 class="portfolio-cat">Nature, Photography</h4>
+            
+                                    <div class="btn-group">
+                                        <a class="btn-link" href="http://bit.ly/1YtB8he" target="_blank"><i
+                                                class="rsicon rsicon-link"></i></a>
+                                        <a class="portfolioFancybox btn-zoom" data-fancybox-group="portfolioFancybox3"
+                                           href="#portfolio3-inline1"><i class="rsicon rsicon-eye"></i></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox3"
+                                           href="#portfolio3-inline2"></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox3"
+                                           href="#portfolio3-inline3"></a>
+                                    </div>
+                                </div>
+                            </figcaption>
+                        </figure>
+            
+                        <!-- Start: Portfolio Inline Boxes -->
+                        <div id="portfolio3-inline1" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-08-large.jpg"></div>
+                        </div>
+            
+                        <div id="portfolio3-inline2" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-04-large.jpg"></div>
+                        </div>
+            
+                        <div id="portfolio3-inline3" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-02-large.jpg"></div>
+                        </div>
+                        <!-- End: Portfolio Inline Boxes -->
+                    </div>
+                </div> 
+                <!-- .grid-item -->
+            </div>
+            
+            <div class="grid-more">
+                <span class="ajax-loader"></span>
+                <button class="btn btn-border ripple"><i class="rsicon rsicon-add"></i></button>
+            </div>
+            </div>
+            </section>
+            <!-- #portfolio -->
  
             <section id="experience" class="section section-experience">
                 <div class="animate-up">
@@ -444,17 +657,13 @@
                                 <div class="timeline-box-inner animate-right">
                                     <span class="arrow"></span>
             
-                                    <div class="date">Internship March - Aug 2018</div>
-                                    <center>   <a href="http://www.clasquin.com/fr"><img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/5adea082324d2cfdf76b1feddc1fd4bd" width="100"/> </a></center> </br>
-                                    <h3>CFO Asia-Pacific Assistant</h3>
-                                    <h4>CLASQUIN</h4>
+                                    <div class="date">2014 - 2016</div>
+                                    <h3>PINEAPPLE</h3>
+                                    <h4>Full Stack developer</h4>
             
-                                    <p><ul>
-                                        <li> Analysis and consolidation of Asian subsidiaries accounts </li>
-                                        <li> Fundraising campaign for investment project beside Singapore Government </li>
-                                        <li>  Process reviews of Asian subsidiaries (30 offices)  </li>
-
-                                    </ul></p>
+                                    <p>Worked as part of a multi-disciplinary team, carrying out ad-hoc tasks as requested by the IT
+                                        Manager. Had a specific brief to ensure the websites build for customer’s precisely matched
+                                        their requirements.developers and marketers.</p>
                                 </div>
                             </div>
             
@@ -464,17 +673,12 @@
                                 <div class="timeline-box-inner animate-left">
                                     <span class="arrow"></span>
             
-                                    <div class="date">Internship September - March 2018</div>
-                                    <center>   <a href="https://www.ey.com/"><img src="https://yt3.ggpht.com/a-/AN66SAyrtoYTqZFKGDHvRKXl8Rh7edspTnLyVnsHZA=s900-mo-c-c0xffffffff-rj-k-no" width="100"/> </a></center> </br>
-                                    <h3>Financial Auditor</h3>
-                                    <h4>EY</h4>
+                                    <div class="date">2011 - 2014</div>
+                                    <h3>MACROSOOFT</h3>
+                                    <h4>Web Developer</h4>
             
-                                    <p><ul>
-                                        <li> Assigned to the Middle Market department  </li>
-                                        <li> Reviewed major accounts Balance Sheet and P&L statements for accuracy </li>
-                                        <li>Extensive procedures testing to check the process efficiency </li>
-
-                                    </ul></p>
+                                    <p>I was responsible for working on a range of projects, designing appealing websites and
+                                        interacting on a daily basis with graphic designers, back-end developers and marketers.</p>
                                 </div>
                             </div>
             
@@ -484,17 +688,13 @@
                                 <div class="timeline-box-inner animate-right">
                                     <span class="arrow"></span>
             
-                                    <div class="date">2015 - 2017</div>
-                                    <center>   <a href="https://junior-entreprises.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/JE_logo.png/220px-JE_logo.png" width="100"/> </a></center> </br>
-                                    <h3>Organizational Auditor</h3>
-                                    <h4>National Confederation of Junior-Enterprises</h4>
+                                    <div class="date">2003 - 2006</div>
+                                    <h3>JOOJLE</h3>
+                                    <h4>Systems Analyst / Web Developer</h4>
             
-                                    <p><ul>
-                                        <li> Accredited and Trained by the National Confederation and EY  </li>
-                                        <li> Audited case studies and processes of Junior-Entreprises  </li>
-                                        <li>Provided guidance for development and improvement of start-up structures </li>
-
-                                    </ul></p>
+                                    <p>Rebuilt and enhanced existing ASP B2C site with ASP.NET 2.0 Framework and tools. Technology
+                                        consists of ASP.NET 2.0 (C#), IIS, Microsoft SQL Server 2005, Stored Procedures & PayPal
+                                        Instant Payment Notification.</p>
                                 </div>
                             </div>
             
@@ -504,21 +704,43 @@
                                 <div class="timeline-box-inner animate-left">
                                     <span class="arrow"></span>
             
-                                    <div class="date">2015 - 2017</div>
-                                    <center>   <a href="https://www.escadrille.org/fr/"><img src="https://www.tbs-alumni.com/ressources/temp/80_588x277_3507378094_2018171109-connect-in-mai666.jpg.jpg" width="100"/> </a></center> </br>
-                                    <h3>Marketing & Digital Consulting</h3>
-                                    <h4>Escadrille Toulouse Junior Conseil</h4>
+                                    <div class="date">2004 - 2008</div>
+                                    <h3>IBBBM</h3>
+                                    <h4>Webmaster / Web Developer</h4>
             
-                                    <p>
-                                    <ul>
-                                        <li> Consultant : Carrying out market studies for SMEs, Collectivities, Entrepreneurs & Large Companies. 
-Competition survey | Market study | Webmarketing study | Location Study
-Ref : Paris Airport, Veolia, CNES, Ariege Expansion etc. </li>
-                                         <li> PROJECT MANAGER : Manage a porfolio of surveys by coordinating the different members of the working team chosen to realize the study #10 projects managed in 2 years  </li>
-                                        <li>  SALES: Meeting prospects and analyzing their needs during client appointments, doing commercial proposals and negociation. </li>
-
-                                    </ul>
-                                    </p>
+                                    <p>Developed, managed, operated and promoted an Internet business.Handled customer support
+                                        issues.Planned and managed business finances.</p>
+                                </div>
+                            </div>
+            
+                            <div class="timeline-box timeline-box-left">
+                                <span class="dot"></span>
+            
+                                <div class="timeline-box-inner animate-right">
+                                    <span class="arrow"></span>
+            
+                                    <div class="date">2003 - 2004</div>
+                                    <h3>HEADBOOK</h3>
+                                    <h4>Intern</h4>
+            
+                                    <p>This was beginning of my career. Developed, managed, operated and promoted an Internet
+                                        business.Handled customer support issues.</p>
+                                </div>
+                            </div>
+            
+                            <div class="timeline-box timeline-box-right">
+                                <span class="dot"></span>
+            
+                                <div class="timeline-box-inner animate-left">
+                                    <span class="arrow"></span>
+            
+                                    <div class="date">2000 - 2003</div>
+                                    <h3>UBEAR</h3>
+                                    <h4>Taxi Driver</h4>
+            
+                                    <p>Driving from point A to point B and if necessary to point C and sometimes even to point R and
+                                        point S. I was known as experienced driver. Once my passenger who was a web developer told
+                                        me about his job and I have made my decision at that moment to became a developer.</p>
                                 </div>
                             </div>
                         </div>
@@ -535,62 +757,27 @@ Ref : Paris Airport, Veolia, CNES, Ariege Expansion etc. </li>
                         <div class="timeline-bar"></div>
                         <div class="timeline-inner clearfix">
             
-                         <div class="timeline-box timeline-box-compact timeline-box-left">
+                            <div class="timeline-box timeline-box-compact timeline-box-left">
                                 <span class="dot"></span>
             
                                 <div class="timeline-box-inner animate-right">
                                     <span class="arrow"></span>
             
-                                    <div class="date"><span>2018</span></div>
-                                    <h3>Piscine C language</h3>
-                                     <div class="col-md-2">
-                                            <center><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX///8AAAD09PRgYGCFhYUdHR0XFxetra3U1NScnJxNTU3s7OzGxsZdXV36+vrm5uZWVlZ9fX0iIiKOjo5kZGQtLS3g4ODa2tooKCgzMzM9PT1JSUk5OTlCQkKRkZGhoaHAwMDMzMwPDw9BTDhjAAADqElEQVR4nO3ca1faQBSF4QTFC1W5FLWttSr//0dWQDAkM5NNMmfmzFn7/Rwoz9oYrSFWFWOMMcYYY4wxxhhjjDHGGGOMMRZqAvUw7GFgnWeP2X2NtJq0Hwc9rH7DDvsnCFxAr+C1+8Ap8rj5Mya8lQNiCzqAkPCpusktHLwgJHyqsguxBf84H9sv/ATmFo5YEBBugZmFYxbsF+6AeYXjgH3CPTCrEHuLeoE9wi9gTiG24F//EwSFB2BG4dgFw8IjMJ9w9IJB4Tcwm3D8giFhA5hLGGHBgPC5eVQeYYwF/cITYB4htuDvvqfxCE+BWYTgW7T3/6RuYQuYQxjla9ArbAMzCMG3KPBbBZewA0wvxE4ywIJOYReYXBhvQZfQAUwtjLigQ+gCJhbGXLArdALTCuMC20I3MKkw0jd6j9ADTCmMvGBLeOM7Kp0w9oKnQi8wnRADPp5z+aAh9AOTCbFvE+cs2BQGgKmEAgs2hCFgImH0k8yugzAITCO8gP6NMxc8CsPAJEKZBQ/CHmAKIbbgr/Mvwk4RYAKh0Fu02gt7gfJCkbPovikCFBeKvUWrrRAASgsFF6yq+gM5SlYoueDna4eO+sCE14NeguiCYHMMuBz05LILYokCsQULBppf0DyQb9Fdq3KBBS14OejJ19Bzc8FRccF9ot8mOp/4jZkCoIoFh71FQaCGBUWB5S6InWSm5S4I3lbABcekYUENwJ+Dntz8gthZVAVw2IIY8EoD0PxJRnLBgoHYgireouUu+EMSqGFBUWBBCw67T1TDgvwaHAM0v6AGoIKTjAqg5ElmowHIBZ1xwV3mF1TxIYRhQPDPaczWF9FavLdfxAp6DS+YqP3ZnFtMGLXOJ16gv/xRzyDgor20NeG685koY8J191NftoTb06Zp4e5X2ZaF+298hoVfP7rYFR5+NjMrPF5Osir8vl5mVNi4IGhT2LziaVJ4cknXovD0hkGDwtZFeXvC9i2f5oSde1qtCbs37RoTOu5KtiV03XZtSui8r9yS0H3jvCHhzH2YHaEHaEfoA5oReoFWhH6gEWEAaEMYApoQvgQPawvvlpfxWiYRBhcU/avzVTVJIQwvKCwEL1aPEvYBixf2AksX9gMLFwLAsoWvyGEqhY+bq/42i/saOKx+0ygsJwop1B+FFOqPQgr1RyGF+qOQQv1RSKH+KKRQfxRSqD8KKdQfhRTq7+H9Dmme+3UyxhhjjDHGGGOMMcYYY4wxxhhjjDHGWHH9BxwVXYalVybiAAAAAElFTkSuQmCC" width="600px" align="center"/></center>
-									</div>
-                                    <div class = "col-md-10">
-                                    <h3>Ecole 42</h3> 
-                                    </div>
-                                    <h4>Paris</h4>
-                                    <p>
-										<ul>
-                                            <li>Intensive Training to Computer Programming</li>
-										    <li>Learning of C Language</li>
-										</ul>
+                                    <div class="date"><span>2012 - 2014</span></div>
+                                    <h3>Master of Information Technology</h3>
+                                    <h4>MIT&T</h4>
                                 </div>
-                            </div>    
-                        
-                        
-                        <div class="timeline-box timeline-box-compact timeline-box-right">
+                            </div>
+            
+                            <div class="timeline-box timeline-box-compact timeline-box-right">
                                 <span class="dot"></span>
             
                                 <div class="timeline-box-inner animate-left">
                                     <span class="arrow"></span>
             
-                                    <div class="date"><span>2015 - 2019</span></div>
-                                    <h3>Master in Corporate Finance</h3>
-                                     <div class="col-md-2">
-                                            <center><img src="http://ability-search.com/uploads/campus/logo_92.png?3331dc26748cce3e9757086390e56471" width="600px" align="center"/></center>
-									</div>
-
-									<div class="col-md-10">
-									<h3>	Toulouse Business School </h3>
-                                    </div>
-                                    <h4>Toulouse & Barcelona</h4>
-                                    <p>
-										<ul>
-                                            <li>EQUIS, AMBA and AACSB accredited</li>
-										    <li>English Track</li>
-										    <li>Master in Management</li>
-										</ul>
-
-Coursework :</br> 
-                                        <ul>
-                                            <li>Corporate Strategy</li>
-										    <li>Corporate Finance (Accounting, Corporate Valuation, International Finance)</li>
-										    <li>Modelling under VBA, Econometrics, Structured Financing, Private Equity, M&A</li>
-										</ul>
-
-                                    </p>
-                                    </br>
+                                    <div class="date"><span>2008 - 2012</span></div>
+                                    <h3>Bachelor Computer Engineering</h3>
+                                    <h4>Harwarg Universitey</h4>
                                 </div>
                             </div>
             
@@ -600,21 +787,9 @@ Coursework :</br>
                                 <div class="timeline-box-inner animate-right">
                                     <span class="arrow"></span>
             
-                                    <div class="date"><span>2014 - 2015</span></div>
-                                    <h3>Preparatory Class for Business Schools</h3>
-                                     <div class="col-md-2">
-                                            <center><img src="http://www.neoresid.com/wp-content/uploads/2018/03/lyc%C3%A9e-carnot.png" width="600px" align="center"/></center>
-									</div>
-                                    <h4>Lycee Carnot</h4>
-                                     <p>
-                                     Intensive Preparatory Classes for the competitive entrance exams to the top French Business Schools.
-										<ul>
-                                            <li>Advanced Mathematics</li>
-										    <li>Philosophy</li>
-										    <li>Geopolitics</li>
-                                            <li> Languages (English and Spanish) </li>
-										</ul>
-                                    </p>
+                                    <div class="date"><span>2007 - 2008</span></div>
+                                    <h3>Certificate for courses of Computer Science</h3>
+                                    <h4>Stanfoorb Universitey</h4>
                                 </div>
                             </div>
             
@@ -625,14 +800,20 @@ Coursework :</br>
                                     <span class="arrow"></span>
             
                                     <div class="date"><span>2007 - 2008</span></div>
-                                    <h3>Three-month Exchange Student</h3>
-                                     <div class="col-md-2">
-                                            <center><img src="https://esquimalt.public.sd61.bc.ca/wp-content/uploads/sites/34/2015/12/logo.jpg" width="600px" align="center"/></center>
-                                    </div>
-                                    <h4>Esquimalt High School</h4>
-                                    <p>
-                                    Three-momth exchange with Canada to improve my english skills
-                                    </p>
+                                    <h3>1 week Courses of Information Systems</h3>
+                                    <h4>Oxforz Universitey</h4>
+                                </div>
+                            </div>
+            
+                            <div class="timeline-box timeline-box-compact timeline-box-left">
+                                <span class="dot"></span>
+            
+                                <div class="timeline-box-inner animate-right">
+                                    <span class="arrow"></span>
+            
+                                    <div class="date"><span>2006 - 2007</span></div>
+                                    <h3>Software Engineering</h3>
+                                    <h4>Sordonne University</h4>
                                 </div>
                             </div>
                         </div>
@@ -640,131 +821,59 @@ Coursework :</br>
                 </div>
             </section>
             <!-- #education -->
-           
-
-            <section id="skills" class="section section-skills">
-                <div class="animate-up">
-                    <h2 class="section-title">Professional Skills</h2>
             
-                    <div class="section-box">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="progress-bar">
-                                    <div class="bar-data">
-                                        <span class="bar-title">Microsoft Excel & Powerpoint</span>
-                                        <span class="bar-value">95%</span>
-                                    </div>
-                                    <div class="bar-line">
-                                        <span class="bar-fill" data-width="95%"></span>
-                                    </div>
-                                </div>
-                            </div>
-            
-                            <div class="col-sm-6">
-                                <div class="progress-bar">
-                                    <div class="bar-data">
-                                        <span class="bar-title">Tableau, Power BI, Data Visualization</span>
-                                        <span class="bar-value">52%</span>
-                                    </div>
-                                    <div class="bar-line">
-                                        <span class="bar-fill" data-width="52%"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-            
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="progress-bar">
-                                    <div class="bar-data">
-                                        <span class="bar-title">Python For Data Science (Numpy, Pandas, Matplotlib)</span>
-                                        <span class="bar-value">45%</span>
-                                    </div>
-                                    <div class="bar-line">
-                                        <span class="bar-fill" data-width="45%"></span>
-                                    </div>
-                                </div>
-                            </div>
-            
-                            <div class="col-sm-6">
-                                <div class="progress-bar">
-                                    <div class="bar-data">
-                                        <span class="bar-title">HTML & CSS</span>
-                                        <span class="bar-value">89%</span>
-                                    </div>
-                                    <div class="bar-line">
-                                        <span class="bar-fill" data-width="67%"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-            
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="progress-bar">
-                                    <div class="bar-data">
-                                        <span class="bar-title">MySQL queries</span>
-                                        <span class="bar-value">70%</span>
-                                    </div>
-                                    <div class="bar-line">
-                                        <span class="bar-fill" data-width="70%"></span>
-                                    </div>
-                                </div>
-                            </div>
-            
-                            <div class="col-sm-6">
-                                <div class="progress-bar">
-                                    <div class="bar-data">
-                                        <span class="bar-title">Google Analytics</span>
-                                        <span class="bar-value">80%</span>
-                                    </div>
-                                    <div class="bar-line">
-                                        <span class="bar-fill" data-width="80%"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- #skills --> 
-
-
-
-
-
             <section id="clients" class="section section-clients">
                 <div class="animate-up">
-                <h2 class="section-title">Certifications</h2>
             
                     <div class="clients-carousel">
                         <div class="client-logo">
-                            <a href="https://www.etsglobal.org/Fr/Fre" target="_blank"><img src="http://image0.polesup-stbrieuc.org/article/produit/photo/dossier1913/DOSSIERillustration/princ_75px_0rap_principal_grande.png"
+                            <a href="http://market.envato.com" target="_blank"><img src="img/uploads/logos/logo-envato.png"
                                                                                     title="envato" alt="envato"/></a>
                         </div>
             
                         <div class="client-logo">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Google_Analytics_2016.png" title="angular js" alt="angular js"/>
+                            <img src="img/uploads/logos/logo-angularjs.png" title="angular js" alt="angular js"/>
                         </div>
             
                         <div class="client-logo">
                             <a href="https://www.omniref.com/ruby/gems/teaspoon/0.7.9" target="_blank"><img
-                                    src="http://andreadekneuvel.com/img/python2.png" title="teaspoon" alt="teaspoon"/></a>
+                                    src="img/uploads/logos/logo-teaspoon.png" title="teaspoon" alt="teaspoon"/></a>
                         </div>
             
                         <div class="client-logo">
-                            <a href="https://wordpress.com" target="_blank"><img src="http://andreadekneuvel.com/img/sql.png"
+                            <a href="https://wordpress.com" target="_blank"><img src="img/uploads/logos/logo-wordpress.png"
                                                                                  title="wordpress" alt="wordpress"/></a>
                         </div>
-                    <div class="client-logo">
-                            <a href="https://wordpress.com" target="_blank"><img src="http://andreadekneuvel.com/img/R.png"
-                                                                                 title="wordpress" alt="wordpress"/></a>
+            
+                        <div class="client-logo">
+                            <a href="https://evernote.com" target="_blank"><img src="img/uploads/logos/logo-evernote.png"
+                                                                                title="evernote" alt="evernote"/></a>
+                        </div>
+            
+                        <div class="client-logo">
+                            <a href="http://compass-style.org" target="_blank"><img src="img/uploads/logos/logo-compass.png"
+                                                                                    title="compass" alt="compass"/></a>
+                        </div>
+            
+                        <div class="client-logo">
+                            <a href="http://getbootstrap.com" target="_blank"><img src="img/uploads/logos/logo-bootstrap.png"
+                                                                                   title="bootstrap" alt="bootstrap"/></a>
+                        </div>
+            
+                        <div class="client-logo">
+                            <a href="http://jasmine.github.io" target="_blank"><img src="img/uploads/logos/logo-jasmine.png"
+                                                                                    title="jasmine" alt="jasmine"/></a>
+                        </div>
+            
+                        <div class="client-logo">
+                            <a href="https://jquery.com" target="_blank"><img src="img/uploads/logos/logo-jquery.png" title="jquery"
+                                                                              alt="jquery"/></a>
                         </div>
                     </div>
                 </div>
             </section>
             <!-- #clients -->
-            <!--
+            
             <section id="references" class="section section-references">
                 <div class="animate-up">
                     <h2 class="section-title">References</h2>
@@ -832,8 +941,7 @@ Coursework :</br>
                 </div>
             </section>
             <!-- #references -->
-            -->
-            <!--
+            
             <section id="prices" class="section section-prices">
                 <div class="animate-up">
                     <h2 class="section-title">Pricing</h2>
@@ -933,8 +1041,82 @@ Coursework :</br>
                 </div>
             </section>
             <!-- #prices -->
-            -->
-            <!--
+            
+            <section id="blog" class="section section-blog">
+                <div class="animate-up">
+                    <h2 class="section-title">From The Blog</h2>
+            
+                    <div class="blog-grid">
+                        <div class="grid-sizer"></div>
+                        <div class="grid-item">
+                            <article class="post-box">
+                                <div class="post-media">
+                                    <div class="post-image">
+                                        <a href="single.html"><img src="img/uploads/thumb-449x286-1.jpg" alt=""> </a>
+                                    </div>
+                                </div>
+            
+                                <div class="post-data">
+                                    <time class="post-datetime" datetime="2015-03-13T07:44:01+00:00">
+                                        <span class="day">03</span>
+                                        <span class="month">MAY</span>
+                                    </time>
+            
+                                    <div class="post-tag">
+                                        <a href="">#Photo</a>
+                                        <a href="">#Architect</a>
+                                    </div>
+            
+                                    <h3 class="post-title">
+                                        <a href="single-image.html">Image Post</a>
+                                    </h3>
+            
+                                    <div class="post-info">
+                                        <a href=""><i class="rsicon rsicon-user"></i>by admin</a>
+                                        <a href=""><i class="rsicon rsicon-comments"></i>56</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+            
+                        <div class="grid-item">
+                            <article class="post-box">
+                                <div class="post-media">
+                                    <div class="post-image">
+                                        <a href="single-vimeo.html">
+                                            <img src="img/uploads/thumb-449x286-5.jpg" alt="">
+                                            <span class="post-type-icon"><i class="rsicon rsicon-play"></i></span>
+                                        </a>
+                                    </div>
+                                </div>
+            
+                                <div class="post-data">
+                                    <time class="post-datetime" datetime="2015-03-13T07:44:01+00:00">
+                                        <span class="day">03</span>
+                                        <span class="month">MAY</span>
+                                    </time>
+            
+                                    <div class="post-tag">
+                                        <a href="">#Photo</a>
+                                        <a href="">#Architect</a>
+                                    </div>
+            
+                                    <h3 class="post-title">
+                                        <a href="single-vimeo.html">Vimeo Video Post</a>
+                                    </h3>
+            
+                                    <div class="post-info">
+                                        <a href=""><i class="rsicon rsicon-user"></i>by admin</a>
+                                        <a href=""><i class="rsicon rsicon-comments"></i>56</a>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- #blog -->
+            
             <section id="text-section" class="section section-text">
                 <div class="animate-up animated">
                     <h2 class="section-title">Text Section</h2>
@@ -954,8 +1136,52 @@ Coursework :</br>
             </section>
             <!-- #text-section -->
             
-           --> 
-           <!--
+            <section id="interests" class="section section-interests">
+                <div class="animate-up">
+                    <h2 class="section-title">My Interests</h2>
+            
+                    <div class="section-box">
+                        <p>I have a keen interest in photography. I was vice-president of the photography club during my time at
+                            university,
+                            and during this period I organised a number of very successful exhibitions and events both on and off
+                            campus.
+                            <br/>I also play the piano to grade 8 standard.</p>
+            
+                        <ul class="interests-list">
+                            <li>
+                                <i class="map-icon map-icon-bicycling"></i>
+                                <span>Bicycling</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-movie-theater"></i>
+                                <span>Watch Movies</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-ice-skating"></i>
+                                <span>Skating</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-shopping-mall"></i>
+                                <span>Shopping</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-tennis"></i>
+                                <span>Playing Tennis</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-bowling-alley"></i>
+                                <span>Playing Bowling</span>
+                            </li>
+                            <li>
+                                <i class="map-icon map-icon-swimming"></i>
+                                <span>Swimming</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            <!-- #interests -->
+            
             <section id="calendar" class="section section-calendar">
                 <div class="animate-up">
                     <h2 class="section-title">Availability Calendar</h2>
@@ -996,7 +1222,6 @@ Coursework :</br>
                 </div>
             </section>
             <!-- #calendar -->
-            -->
             
             <section id="contact" class="section section-contact">
                 <div class="animate-up">
@@ -1063,9 +1288,222 @@ Coursework :</br>
                 </div>
             </section>
             <!-- #contact -->
-
-
-                  <!-- END: PAGE CONTENT -->
+              <section id="portfolio" class="section section-portfolio">
+            <div class="animate-up">
+            <h2 class="section-title">Portfolio</h2>
+            
+            <div class="filter">
+                <div class="filter-inner">
+                    <div class="filter-btn-group">
+                        <button data-filter="*">All</button>
+                        <button data-filter=".photography">Photography</button>
+                        <button data-filter=".nature">Nature</button>
+                    </div>
+                    <div class="filter-bar">
+                        <span class="filter-bar-line"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="grid">
+                <div class="grid-sizer"></div>
+            
+                <div class="grid-item size22 photography">
+                    <div class="grid-box">
+                        <figure class="portfolio-figure">
+                            <img src="img/uploads/portfolio/portfolio-thumb-05-610x600.jpg" alt=""/>
+                            <figcaption class="portfolio-caption">
+                                <div class="portfolio-caption-inner">
+                                    <h3 class="portfolio-title">Street Photography</h3>
+                                    <h4 class="portfolio-cat">Photography</h4>
+            
+                                    <div class="btn-group">
+                                        <a class="btn-link" href="http://bit.ly/1YtB8he" target="_blank"><i
+                                                class="rsicon rsicon-link"></i></a>
+                                        <a class="portfolioFancybox btn-zoom" data-fancybox-group="portfolioFancybox1"
+                                           href="#portfolio1-inline1"><i class="rsicon rsicon-eye"></i></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox1"
+                                           href="#portfolio1-inline2"></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox1"
+                                           href="#portfolio1-inline3"></a>
+                                    </div>
+                                </div>
+                            </figcaption>
+                        </figure>
+            
+                        <!-- Start: Portfolio Inline Boxes -->
+                        <div id="portfolio1-inline1" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-05-large.jpg"></div>
+                            <div class="inline-cont">
+                                <h2 class="inline-title">Street photography is photography that features the chance
+                                    encounters and random accidents within public places.</h2>
+            
+                                <div class="inline-text">
+                                    <p>Street photography does not necessitate the presence of a street or even the urban
+                                        environment. Though people usually feature directly, street photography might be
+                                        absent of people and can be an object or environment where the image projects a
+                                        decidedly human character in facsimile or aesthetic.</p>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div id="portfolio1-inline2" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-01-large.jpg"></div>
+                            <div class="inline-cont">
+                                <div class="inline-text">
+                                    <h2 class="inline-title">Framing and timing</h2>
+            
+                                    <p>Framing and timing can be key aspects of the craft with the aim of some street
+                                        photography being to create images at a decisive or poignant moment. Street
+                                        photography can focus on emotions displayed, thereby also recording people's history
+                                        from an emotional point of view.</p>
+                                </div>
+                            </div>
+                        </div>
+            
+                        <div id="portfolio1-inline3" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="iframe"
+                                 data-embed-url="https://player.vimeo.com/video/118244244"></div>
+                            <div class="inline-cont">
+                                <div class="inline-text">
+                                    <h2 class="inline-title">A Look Into Documenting Street Fashion Photography</h2>
+            
+                                    <p>HB Nam is an internationally known street fashion photographer. In this Leica Camera
+                                        Portrait, Nam explains how he started in photography and what photography means to
+                                        him. For Nam, it's about documenting what's around him and the concentration
+                                        required to achieve a good shot.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End: Portfolio Inline Boxes -->
+                    </div>
+                </div>
+                <!-- .grid-item -->
+            
+                <div class="grid-item size11 bridge">
+                    <div class="grid-box">
+                        <figure class="portfolio-figure">
+                            <img src="img/uploads/portfolio/portfolio-thumb-11-289x281.jpg" alt=""/>
+                            <figcaption class="portfolio-caption">
+                                <div class="portfolio-caption-inner">
+                                    <h3 class="portfolio-title">Suspension Bridge</h3>
+                                    <h4 class="portfolio-cat">Bridge</h4>
+            
+                                    <div class="btn-group">
+                                        <a class="btn-link" href="http://bit.ly/1YtB8he" target="_blank"><i
+                                                class="rsicon rsicon-link"></i></a>
+                                        <a class="portfolioFancybox btn-zoom" data-fancybox-group="portfolioFancybox2"
+                                           href="#portfolio2-inline1"><i class="rsicon rsicon-eye"></i></a>
+                                    </div>
+                                </div>
+                            </figcaption>
+                        </figure>
+            
+                        <!-- Start: Portfolio Inline Boxes -->
+                        <div id="portfolio2-inline1" class="fancybox-inline-box">
+                            <div class="inline-cont">
+                                <h2 class="inline-title">Suspension Bridges - Design Technology</h2>
+            
+                                <div class="inline-text">
+                                    <p>Suspension bridges in their simplest form were originally made from rope and wood.
+                                        Modern suspension bridges use a box section roadway supported by high tensile
+                                        strength cables.
+                                        In the early nineteenth century, suspension bridges used iron chains for cables. The
+                                        high tensile cables used in most modern suspension
+                                        bridges were introduced in the late nineteenth century.<br/>
+                                        Today, the cables are made of thousands of individual steel wires bound tightly
+                                        together. Steel, which is very strong under tension, is
+                                        an ideal material for cables; a single steel wire, only 0.1 inch thick, can support
+                                        over half a ton without breaking.</p>
+            
+                                    <p>Light, and strong, suspension bridges can span distances from 2,000 to 7,000 feet far
+                                        longer than any other kind of bridge. They are
+                                        ideal for covering busy waterways.</p>
+            
+                                    <p>With any bridge project the choice of materials and form usually comes down to cost.
+                                        Suspension bridges tend to be the most expensive to build. A suspension bridge
+                                        suspends the roadway from huge main cables, which extend
+                                        from one end of the bridge to the other. These cables rest on top of high towers and
+                                        have to be securely anchored into the bank at either
+                                        end of the bridge. The towers enable the main cables to be draped over long
+                                        distances. Most of the weight or load of the bridge is
+                                        transferred by the cables to the anchorage systems. These are imbedded in either
+                                        solid rock or huge concrete blocks. Inside the anchorages,
+                                        the cables are spread over a large area to evenly distribute the load and to prevent
+                                        the cables from breaking free.</p>
+            
+                                    <p>The Arthashastra of Kautilya mentions the construction of dams and bridges.A Mauryan
+                                        bridge near Girnar was surveyed by James Princep.
+                                        The bridge was swept away during a flood, and later repaired by Puspagupta, the
+                                        chief architect of emperor Chandragupta I. The bridge
+                                        also fell under the care of the Yavana Tushaspa, and the Satrap Rudra Daman. The use
+                                        of stronger bridges using plaited bamboo and iron
+                                        chain was visible in India by about the 4th century. A number of bridges, both for
+                                        military and commercial purposes, were constructed by
+                                        the Mughal administration in India.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End: Portfolio Inline Boxes -->
+                    </div>
+                </div>
+                <!-- .grid-item -->
+            
+                <div class="grid-item size11 nature photography">
+                    <div class="grid-box">
+                        <figure class="portfolio-figure">
+                            <img src="img/uploads/portfolio/portfolio-thumb-08-289x281.jpg" alt=""/>
+                            <figcaption class="portfolio-caption">
+                                <div class="portfolio-caption-inner">
+                                    <h3 class="portfolio-title">Rocky Mountains</h3>
+                                    <h4 class="portfolio-cat">Nature, Photography</h4>
+            
+                                    <div class="btn-group">
+                                        <a class="btn-link" href="http://bit.ly/1YtB8he" target="_blank"><i
+                                                class="rsicon rsicon-link"></i></a>
+                                        <a class="portfolioFancybox btn-zoom" data-fancybox-group="portfolioFancybox3"
+                                           href="#portfolio3-inline1"><i class="rsicon rsicon-eye"></i></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox3"
+                                           href="#portfolio3-inline2"></a>
+                                        <a class="portfolioFancybox hidden" data-fancybox-group="portfolioFancybox3"
+                                           href="#portfolio3-inline3"></a>
+                                    </div>
+                                </div>
+                            </figcaption>
+                        </figure>
+            
+                        <!-- Start: Portfolio Inline Boxes -->
+                        <div id="portfolio3-inline1" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-08-large.jpg"></div>
+                        </div>
+            
+                        <div id="portfolio3-inline2" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-04-large.jpg"></div>
+                        </div>
+            
+                        <div id="portfolio3-inline3" class="fancybox-inline-box">
+                            <div class="inline-embed" data-embed-type="image"
+                                 data-embed-url="img/uploads/portfolio/portfolio-thumb-02-large.jpg"></div>
+                        </div>
+                        <!-- End: Portfolio Inline Boxes -->
+                    </div>
+                </div> 
+                <!-- .grid-item -->
+            </div>
+            
+            <div class="grid-more">
+                <span class="ajax-loader"></span>
+                <button class="btn btn-border ripple"><i class="rsicon rsicon-add"></i></button>
+            </div>
+            </div>
+            </section>
+            <!-- #portfolio -->
+            
+                   <!-- END: PAGE CONTENT -->
     
         </div>
         <!-- .container -->
